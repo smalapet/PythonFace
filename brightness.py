@@ -1,5 +1,5 @@
 ############################################################################################
-#Copyrights 2015 Sivarat Malapet all rights reserved.
+#Copyright 2015 Sivarat Malapet all rights reserved.
 ############################################################################################
 
 from argparse import ArgumentParser
